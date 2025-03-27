@@ -1,0 +1,6 @@
+[submodule "Jupiter_web"]
+	path = Jupiter_web
+	url = https://github.com/DopleZZ/Jupiter_web.git
+[submodule "Jupiter_front"]
+	path = Jupiter_front
+	url = https://github.com/DopleZZ/Jupiter_front.git
